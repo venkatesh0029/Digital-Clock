@@ -15,8 +15,4 @@ A simple digital clock built using HTML, CSS, and JavaScript.
 - **CSS**: Styling and animations.
 - **JavaScript**: Updates the clock every second.
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/Digital-Clock.git
